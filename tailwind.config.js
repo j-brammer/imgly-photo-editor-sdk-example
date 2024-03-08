@@ -19,4 +19,4 @@ module.exports = {
 
 //edited first comment
 
-//edited joshes comment to make a merge conflict
+//edited second comment (conflict)
