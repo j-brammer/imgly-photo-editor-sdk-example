@@ -19,4 +19,4 @@ module.exports = {
 
 //edited first comment
 
-//edited second comment
+//edited second comment (conflict)
